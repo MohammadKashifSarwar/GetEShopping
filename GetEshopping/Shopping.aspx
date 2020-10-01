@@ -9,10 +9,12 @@
                     <div class="hero__categories">
                         <div class="hero__categories__all">
                             <i class="fa fa-bars"></i>
-                            <span>All departments</span>
+                            <span>All Category</span>
                         </div>
                         <ul>
-                            <li><a href="#">Fresh Meat</a></li>
+                            <li><a href="#">Electronics Devices</a>
+                            
+                            </li>
                             <li><a href="#">Vegetables</a></li>
                             <li><a href="#">Fruit & Nut Gifts</a></li>
                             <li><a href="#">Fresh Berries</a></li>
@@ -43,7 +45,7 @@
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5>+65 11.188.888</h5>
+                                <h5>03132248885</h5>
                                 <span>support 24/7 time</span>
                             </div>
                         </div>
