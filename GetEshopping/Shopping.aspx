@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <section class="hero">
-        <div class="container">
+        <div class="container" style="max-width: 90%;">
             <div class="row">
                 <div class="col-lg-3">
                     <div class="hero__categories">

@@ -229,6 +229,7 @@
     <Content Include="img\featured\feature-7.jpg" />
     <Content Include="img\featured\feature-8.jpg" />
     <Content Include="img\hero\banner.jpg" />
+    <Content Include="img\BlackLogo.png" />
     <Content Include="img\language.png" />
     <Content Include="img\latest-product\lp-1.jpg" />
     <Content Include="img\latest-product\lp-2.jpg" />
